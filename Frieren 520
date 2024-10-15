@@ -1,0 +1,6 @@
+#including <stdio.h>
+int main()
+{
+printf("please input something")
+return 0
+}
